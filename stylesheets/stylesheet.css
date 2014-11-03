@@ -944,6 +944,10 @@ a.btn-follow:active {
   #main-content {
     width: 490px;
   }
+  .card {
+    top: -30px;
+  }
+
   #main-content h1:before,
   #main-content h2:before,
   #main-content h3:before,
